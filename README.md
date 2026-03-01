@@ -17,3 +17,4 @@ Seeing that the issue is not present in prod;
 2. `vite build`, then `vite preview`
 3. Open the page, open the console
 4. Observe that both imports succeed
+
